@@ -241,6 +241,7 @@ public class BinaryTree {
         delete(root, key);
     }
 
+    // Driver methods
     public static void main(String[] args) {
         BinaryTree BT = new BinaryTree();
         BT.root = new Binary_Tree.Node(1);
